@@ -1,5 +1,5 @@
 ## Anti-Forgery
-An example of **[Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations](https://arxiv.org/abs/2003.01279)** (to be presented at the **IJCAI-ECAI 2022**). This repository contains code for crafting perceptual-aware perturbation in the Lab color space to attack an image-to-image translation network. 
+An example of **[Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations](https://arxiv.org/abs/2206.00477)** (to be presented at the **IJCAI-ECAI 2022**). This repository contains code for crafting perceptual-aware perturbation in the Lab color space to attack an image-to-image translation network. 
 
 ## Preparation
 **CelebA Dataset**
