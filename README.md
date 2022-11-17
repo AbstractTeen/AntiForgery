@@ -30,7 +30,6 @@ We use some code from the original [Disrupting-Deepfakes](https://github.com/nat
 ## Citation
 If you find this work useful, please cite our [paper](https://arxiv.org/abs/2206.00477):
 
-The IJCAI camera-ready version is available [here](https://www.ijcai.org/proceedings/2022/0107.pdf)
 ```
 @article{wang2022anti,
   title={Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations},
@@ -38,4 +37,6 @@ The IJCAI camera-ready version is available [here](https://www.ijcai.org/proceed
   journal={arXiv preprint arXiv:2206.00477},
   year={2022}
 }
+
+The IJCAI camera-ready version (pdf) is available [here](https://www.ijcai.org/proceedings/2022/0107.pdf)
 ```
