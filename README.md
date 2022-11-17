@@ -38,5 +38,5 @@ If you find this work useful, please cite our [paper](https://arxiv.org/abs/2206
   year={2022}
 }
 
-The IJCAI camera-ready version (pdf) is available [here](https://www.ijcai.org/proceedings/2022/0107.pdf)
 ```
+The IJCAI camera-ready version (pdf) is available [here](https://www.ijcai.org/proceedings/2022/0107.pdf)
